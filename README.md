@@ -1,1 +1,1 @@
-# 2023-09-openPNE
+# 2023-09-mastodon
